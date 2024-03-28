@@ -1,0 +1,8 @@
+input{
+    color:white;
+}
+input:hover{
+    /* input{ */
+        color:black;
+    /* } */
+}
